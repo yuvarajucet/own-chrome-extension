@@ -1,2 +1,3 @@
 # own-extension-chrome
-Create your own extension for google chrome
+
+<b>Step 1 : </b> ```https://github.com/yuvarajucet/own-extension-chrome.git```
