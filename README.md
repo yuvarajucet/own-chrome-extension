@@ -4,4 +4,4 @@
 
 <b>Step 1 : </b> ```https://github.com/yuvarajucet/own-extension-chrome.git```
 
-https://raw.githubusercontent.com/yuvarajucet/own-extension-chrome/master/img/1.png
+<img src="https://raw.githubusercontent.com/yuvarajucet/own-extension-chrome/master/img/1.png"/>
