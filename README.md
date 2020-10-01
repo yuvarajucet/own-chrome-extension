@@ -4,7 +4,7 @@
 
 <h1>Clone this Repo</h1>
 
-```https://github.com/yuvarajucet/own-chrome-extension.git```
+```git clone https://github.com/yuvarajucet/own-chrome-extension.git```
 
 ```cd own-extension-chrome```
 
