@@ -1,0 +1,19 @@
+{
+	"name":"Mr_3rr0r_501",
+	"version":"1.0.0",
+	"description": "This is test extension",
+	"manifest_version":2,
+	"browser_action":{
+		"default_icon":"logo.png",
+		"default_popup":"popup.html"
+	},
+	"commands": {
+		"_execute_browser_action": {
+		  "suggested_key": {
+			"default": "Ctrl+Shift+F",
+			"mac": "MacCtrl+Shift+F"
+		  },
+		  "description": "Opens popup.html"
+		}
+	  }
+}
