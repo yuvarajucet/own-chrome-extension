@@ -1,10 +1,10 @@
-# own-extension-chrome
+# Own-Chrome-Extension
 <h1>Introduction</h1>
 <p>Hi, this guide is about how to create your own google chrome extension</p>
 
 <h1>Clone this Repo</h1>
 
-```https://github.com/yuvarajucet/own-extension-chrome.git```
+```https://github.com/yuvarajucet/own-chrome-extension.git```
 
 ```cd own-extension-chrome```
 
